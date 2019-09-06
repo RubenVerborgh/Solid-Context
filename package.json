@@ -1,6 +1,6 @@
 {
   "name": "@solid/context",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A handy JSON-LD context for Solid apps and libraries",
   "author": "Ruben Verborgh <ruben@verborgh.org> (https://ruben.verborgh.org/)",
   "license": "MIT",
