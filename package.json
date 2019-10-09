@@ -4,5 +4,10 @@
   "description": "A handy JSON-LD context for Solid apps and libraries",
   "author": "Ruben Verborgh <ruben@verborgh.org> (https://ruben.verborgh.org/)",
   "license": "MIT",
-  "main": "context.json"
+  "main": "context.json",
+  "homepage": "https://github.com/solid/context/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/solid/context.git"
+  }
 }
