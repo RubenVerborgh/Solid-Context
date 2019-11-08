@@ -16,6 +16,7 @@
     "sioc":   "http://rdfs.org/sioc/ns#",
     "solid":  "http://www.w3.org/ns/solid/terms#",
     "stat":   "http://www.w3.org/ns/posix/stat#",
+    "ui":     "http://www.w3.org/ns/ui#",
     "vcard":  "http://www.w3.org/2006/vcard/ns#",
     "xsd":    "http://www.w3.org/2001/XMLSchema#",
 
